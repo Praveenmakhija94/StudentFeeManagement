@@ -1,0 +1,7 @@
+D:\CDAC\Dot net Class\ConsoleApp13June_StudentMangmant\ConsoleApp13June_StudentMangmant\obj\Debug\ConsoleApp13June_StudentMangmant.csproj.AssemblyReference.cache
+D:\CDAC\Dot net Class\ConsoleApp13June_StudentMangmant\ConsoleApp13June_StudentMangmant\obj\Debug\ConsoleApp13June_StudentMangmant.csproj.CoreCompileInputs.cache
+D:\CDAC\Dot net Class\ConsoleApp13June_StudentMangmant\ConsoleApp13June_StudentMangmant\bin\Debug\ConsoleApp13June_StudentMangmant.exe.config
+D:\CDAC\Dot net Class\ConsoleApp13June_StudentMangmant\ConsoleApp13June_StudentMangmant\bin\Debug\ConsoleApp13June_StudentMangmant.exe
+D:\CDAC\Dot net Class\ConsoleApp13June_StudentMangmant\ConsoleApp13June_StudentMangmant\bin\Debug\ConsoleApp13June_StudentMangmant.pdb
+D:\CDAC\Dot net Class\ConsoleApp13June_StudentMangmant\ConsoleApp13June_StudentMangmant\obj\Debug\ConsoleApp13June_StudentMangmant.exe
+D:\CDAC\Dot net Class\ConsoleApp13June_StudentMangmant\ConsoleApp13June_StudentMangmant\obj\Debug\ConsoleApp13June_StudentMangmant.pdb
